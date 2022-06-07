@@ -39,6 +39,9 @@ public class Menu {
         System.out.println("plz enter your password:");
     }
 
+    public void addNextMethodForGit() {
+    }
+
     public void showLoginSuccessMessage(User currentUser) {
         System.out.println("login successfully done");
         System.out.println(
